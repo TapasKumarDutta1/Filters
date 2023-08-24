@@ -4,12 +4,18 @@ This repository contains a collection of various filters used for state estimati
 The filters included in this repository are implemented in Python and cover a range of filtering techniques commonly used in state estimation tasks. Each filter is designed to handle specific characteristics of the system and the measurement noise. The filters provided in this repository are as stated below.
 
 # Filters
-- Discrete Bayes Filter
-- Generalized Holt-Winters (GH) Filter
-- Kalman Filter
-- Extended Kalman Filter (EKF)
-- Unscented Kalman Filter (UKF)
-- Particle Filter (Monte Carlo Filter)
+
+- Discrete Bayes Filter (DONE)
+
+- Generalized Holt-Winters (GH) Filter (DONE)
+
+- Kalman Filter (YET TO IMPLEMENT)
+
+- Extended Kalman Filter (EKF) (YET TO IMPLEMENT)
+
+- Unscented Kalman Filter (UKF) (YET TO IMPLEMENT)
+
+- Particle Filter (Monte Carlo Filter) (YET TO IMPLEMENT)
 
 
 
