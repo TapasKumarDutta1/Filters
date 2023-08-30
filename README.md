@@ -7,13 +7,13 @@ The filters included in this repository are implemented in Python and cover a ra
 
 - Discrete Bayes Filter (DONE)
 
-- Generalized Holt-Winters (GH) Filter (DONE)
+- Generalized Holt-Winters Filter (DONE)
 
 - Kalman Filter (YET TO IMPLEMENT)
 
-- Extended Kalman Filter (EKF) (YET TO IMPLEMENT)
+- Extended Kalman Filter (YET TO IMPLEMENT)
 
-- Unscented Kalman Filter (UKF) (YET TO IMPLEMENT)
+- Unscented Kalman Filter (YET TO IMPLEMENT)
 
 - Particle Filter (Monte Carlo Filter) (YET TO IMPLEMENT)
 
